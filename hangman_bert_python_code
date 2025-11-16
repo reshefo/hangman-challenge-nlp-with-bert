@@ -1,4 +1,3 @@
-<pre> ```python hangman_bert_python_code ``` </pre>
 
 import numpy as np
 import torch
