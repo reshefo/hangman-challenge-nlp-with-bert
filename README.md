@@ -20,3 +20,5 @@ Transformer-based Hangman solver (PyTorch, BERT-style) predicting masked letters
 | This BERT Model| 5     | 100%       |
 | GPT-4.1        | 5     | 40%        |
 
+Results of 100 games:
+<img width="218" height="341" alt="image" src="https://github.com/user-attachments/assets/32efac5a-80df-4984-955c-c8fa33f2de6c" />
